@@ -9,7 +9,7 @@ meta:
   title: Nicholas Camardo Portfolio
 ---
 
-Yellowcake is an opinionated starter project created by Thrive Digital to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Fine art landscape photography.
 
 View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
 
