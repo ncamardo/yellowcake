@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Nicholas Camardo
-featuredImage: 'https://c1.staticflickr.com/5/4915/39754162843_e4d683df67_o.png'
+featuredImage: 'https://c1.staticflickr.com/5/4915/39754162843_5f742487b1_k.jpg'
 subtitle: Fine art landscape photography.
 meta:
   description: This is a meta description.
