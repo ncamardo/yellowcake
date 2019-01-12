@@ -1,12 +1,12 @@
 ---
 template: HomePage
 slug: ''
-title: Photography Portfolio
+title: Nicholas Camardo
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: Fine art landscape photography.
 meta:
   description: This is a meta description.
-  title: Nicholas Camardo Portfolio
+  title: Photography Portfolio
 ---
 
 Fine art landscape photography.
