@@ -31,7 +31,7 @@ export default class InstagramFeed extends Component {
   fetchInstagram = instagramUsername => {
     typeof window !== 'undefined' &&
       window
-        .fetch(`https://instagram.thrivex.io/?ref=thrivegoldcoast`)
+        .fetch(`https://instagram.thrivex.io/?ref=thisisnickscamera`)
         .then(res => res.json())
         .then(data => {
           this.setState({
