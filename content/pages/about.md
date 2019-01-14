@@ -20,9 +20,8 @@ section1: >-
 section2: |-
   ## You can use videos, images and text.
 
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ <a data-flickr-embed="true"  href="https://www.flickr.com/photos/163327791@N07/45994458014/in/dateposted-public/" title="Cascade Mountain"><img src="https://farm8.staticflickr.com/7845/45994458014_47ff718f19_h.jpg" width="1600" height="1280" alt="Cascade Mountain"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+ 
 accordion:
   - content: >-
       Vestibulum semper egestas feugiat. Curabitur nec sagittis leo. Maecenas et
