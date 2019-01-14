@@ -18,7 +18,7 @@ section1: >-
   bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
   vestibulum.
 section2: |-
-  ## You can use videos, images and text.
+  ## Picture test.
 
  https://www.flickr.com/photos/163327791@N07/45994458014/sizes/l/
 
